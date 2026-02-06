@@ -16,7 +16,8 @@ npm install
 2) Crear .env en la raíz del proyecto
 
     PORT=8080
-    MONGO_URL=TU_MONGO_ATLAS_URI
+    MONGO_URL="mongodb+srv://coderhouse_user:coderhouse_pwd@cluster0.g4iuo.mongodb.net/?appName=Cluster0" \coderhouse-backend3
+
 
 ## Ejecutar en local
 
